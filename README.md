@@ -9,7 +9,7 @@ Python project for exploring customer behavior with a local SQLite database, dat
 - `data/` – SQLite database and any exported CSVs.
 - `src/` – Application source code:
   - `__init__.py` – Marks `src` as a package.
-  - `data_generator.py` – Creates a SQLite database with fake customer data (500+ rows).
+  - `data_generator.py` – Creates a SQLite database with synthetic customer data (500+ rows).
   - `analysis.py` – Uses pandas to compute metrics and aggregates.
   - `model.py` – Trains a simple scikit-learn logistic regression churn model.
   - `dashboard.py` – Streamlit app showing churn rate, trends, and top spenders.
