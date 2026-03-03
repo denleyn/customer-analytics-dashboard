@@ -1,5 +1,7 @@
 # Customer Analytics Dashboard
 
+https://customer-analytics-dashboard.streamlit.app/
+
 Python project for exploring customer behavior with a local SQLite database, data analysis using pandas, and a Streamlit dashboard for interactive visualizations and simple churn prediction.
 
 ## Project Structure
